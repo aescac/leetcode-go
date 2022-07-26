@@ -12,6 +12,7 @@ func canWinNim(n int) bool {
 	}
 	return false
 }
+
 // 测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试------------------------------------------
 
 // git 测试
@@ -21,4 +22,9 @@ func main() {
 	println(canWinNim(7))
 	println(canWinNim(8))
 	println(canWinNim(9))
+	localTest()
+}
+
+func localTest() {
+	println("localTest")
 }
