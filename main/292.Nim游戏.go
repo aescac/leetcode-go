@@ -12,6 +12,7 @@ func canWinNim(n int) bool {
 	}
 	return false
 }
+// 测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试------------------------------------------
 func main() {
 	println(canWinNim(5))
 	println(canWinNim(6))
