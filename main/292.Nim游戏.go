@@ -22,3 +22,16 @@ func main() {
 	println(canWinNim(8))
 	println(canWinNim(9))
 }
+
+
+
+
+
+
+func test() {
+	println(canWinNim(5))
+	println(canWinNim(6))
+	println(canWinNim(7))
+	println(canWinNim(8))
+	println(canWinNim(9))
+}
